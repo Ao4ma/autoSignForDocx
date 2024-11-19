@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyApriDevProject\\BomWorkFlowSol\\autoSignForDocx\\autoSignForDocx\\autoSignForDocx.csproj",
+      "projectUniqueName": "C:\\MyApriDevProject\\BomWorkFlowSol\\autoSignForDocx\\autoSignForDocx.csproj",
       "projectName": "autoSignForDocx",
-      "projectPath": "C:\\MyApriDevProject\\BomWorkFlowSol\\autoSignForDocx\\autoSignForDocx\\autoSignForDocx.csproj",
+      "projectPath": "C:\\MyApriDevProject\\BomWorkFlowSol\\autoSignForDocx\\autoSignForDocx.csproj",
       "packagesPath": "C:\\Users\\y0927\\.nuget\\packages\\",
-      "outputPath": "C:\\MyApriDevProject\\BomWorkFlowSol\\autoSignForDocx\\autoSignForDocx\\obj\\",
+      "outputPath": "C:\\MyApriDevProject\\BomWorkFlowSol\\autoSignForDocx\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

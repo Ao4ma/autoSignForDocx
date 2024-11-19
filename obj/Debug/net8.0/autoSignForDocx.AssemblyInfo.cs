@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("autoSignForDocx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+485c032a5b4a6a032b690e5cd224674a798fe394")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29149222467e1028784e63f6ebd3c8009d5c894a")]
 [assembly: System.Reflection.AssemblyProductAttribute("autoSignForDocx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("autoSignForDocx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
