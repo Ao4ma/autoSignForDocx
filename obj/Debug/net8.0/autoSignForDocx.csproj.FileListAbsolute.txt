@@ -1,0 +1,5 @@
+C:\MyApriDevProject\BomWorkFlowSol\autoSignForDocx\autoSignForDocx\obj\Debug\net8.0\autoSignForDocx.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyApriDevProject\BomWorkFlowSol\autoSignForDocx\autoSignForDocx\obj\Debug\net8.0\autoSignForDocx.AssemblyInfoInputs.cache
+C:\MyApriDevProject\BomWorkFlowSol\autoSignForDocx\autoSignForDocx\obj\Debug\net8.0\autoSignForDocx.AssemblyInfo.cs
+C:\MyApriDevProject\BomWorkFlowSol\autoSignForDocx\autoSignForDocx\obj\Debug\net8.0\autoSignForDocx.csproj.CoreCompileInputs.cache
+C:\MyApriDevProject\BomWorkFlowSol\autoSignForDocx\autoSignForDocx\obj\Debug\net8.0\autoSignForDocx.sourcelink.json
